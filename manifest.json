@@ -1,0 +1,21 @@
+{
+  "name": "Трекер Сна",
+  "short_name": "ТрекерСна",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "description": "Простой трекер для отслеживания ночного и дневного сна.",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/android/keyboard/emojikit/20181023/mdpi/emoji_u1f319.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.gstatic.com/android/keyboard/emojikit/20181023/xxhdpi/emoji_u1f319.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
